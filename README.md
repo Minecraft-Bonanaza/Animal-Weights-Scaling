@@ -7,7 +7,7 @@ Width (X/Z) changes more than height. Hitboxes stay vanilla so well-fed animals 
 ## Requirements
 
 - Minecraft **1.21.1**
-- NeoForge **21.1.x**
+- NeoForge **21.1.248+**
 - **Animal Weights** (`animalweights`) — required on client and server
 
 ## Scale table
@@ -36,7 +36,7 @@ Weight is read from Animal Weights via `WeightAttachment.getWeight(animal)` when
 
 Both mods must be installed on the client and the server.
 
-Build output: `build/libs/animalweightsscaling-1.0.0.jar`
+Build output: `build/libs/animalweightsscaling-1.0.1.jar`
 
 ## Build from source
 
